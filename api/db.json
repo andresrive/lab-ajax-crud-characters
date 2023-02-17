@@ -1,0 +1,53 @@
+{
+  "characters": [
+    {
+      "id": 2,
+      "name": "Luke Skywalker",
+      "occupation": "Jedi Knight",
+      "weapon": "Lightsaber",
+      "cartoon": false
+    },
+    {
+      "id": 3,
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true
+    },
+    {
+      "name": "Shrek",
+      "occupation": "Humano",
+      "weapon": "Burro",
+      "cartoon": true,
+      "id": 4
+    },
+    {
+      "name": "vin diesel",
+      "occupation": "actor",
+      "cartoon": "on",
+      "weapon": "cars",
+      "id": 17
+    },
+    {
+      "id": 18,
+      "name": "bugs bunny",
+      "occupation": "bunny",
+      "cartoon": "on",
+      "weapon": "carrot"
+    },
+    {
+      "id": 19,
+      "name": "andres",
+      "occupation": "web developer",
+      "cartoon": "on",
+      "weapon": "computer"
+    },
+    {
+      "name": "andrea",
+      "occupation": "webdev",
+      "cartoon": "on",
+      "weapon": "computer",
+      "id": 20
+    }
+  ]
+}
